@@ -1,0 +1,26 @@
+[
+  {
+    "customerId": 1,
+    "stock": "AAPL",
+    "amount": 100,
+    "price": 150.25,
+    "type": "BUY",
+    "date": "2024-07-13T00:00:00.000+00:00"
+  },
+  {
+    "customerId": 1,
+    "stock": "MSTF",
+    "amount": 100,
+    "price": 150.25,
+    "type": "BUY",
+    "date": "2024-07-13T00:00:00.000+00:00"
+  },
+  {
+    "customerId": 1,
+    "stock": "MSTF",
+    "amount": 100,
+    "price": 200.0,
+    "type": "BUY",
+    "date": "2024-07-13T00:00:00.000+00:00"
+  }
+]
